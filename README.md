@@ -19,14 +19,14 @@ Expected Solution: Create a digital marketplace that:
 • Provides logistics support.
 • Uses AI for demand forecasting and route optimization.
 
-Benefits:
+**Benefits:**
 
 • Better prices for farmers.
 • Lower prices for consumers.
 • Reduced supply chain inefficiencies.
 
 
-1. Proposed Solution
+**1. Proposed Solution**
 
 **AgriConnect AI – Intelligent Agricultural Marketplace**
 
@@ -34,7 +34,7 @@ AgriConnect AI is a centralized digital agricultural marketplace designed to con
 
 The platform provides digital access to agricultural markets, enabling farmers to list their produce, receive orders, and connect with potential buyers without depending on multiple intermediaries.
 
-Its primary features include:
+**Its primary features include:**
 
 - Direct farmer-to-consumer and farmer-to-business transactions.
 - AI-powered agricultural price recommendations.
@@ -44,7 +44,7 @@ Its primary features include:
 - Real-time order tracking and digital payment integration.
 - Multilingual support for improved rural accessibility.
 
-2. Technical Approach
+**2. Technical Approach**
 
 The proposed platform follows a modular architecture integrating web and mobile applications, cloud infrastructure, artificial intelligence, and database management.
 
@@ -65,7 +65,7 @@ The proposed platform follows a modular architecture integrating web and mobile 
 
 The AI module will support price prediction, demand forecasting, and intelligent recommendations. The logistics module will support delivery coordination and route optimization.
 
-3. Feasibility and Viability
+**3. Feasibility and Viability**
 
 The platform can be developed using existing digital technologies and scalable cloud infrastructure. Its modular design allows individual functionalities to be implemented and expanded independently.
 
@@ -75,30 +75,28 @@ Its business model can include nominal transaction commissions, logistics partne
 
 The use of existing payment gateways, mapping services, and open-source technologies can help reduce initial development and operational costs.
 
-4. Impact and Benefits
+**4. Impact and Benefits**
 
-Economic Benefits
-
+**Economic Benefits**
 - Improved price realization for farmers.
 - Reduced dependency on unnecessary intermediaries.
 - Lower procurement costs for consumers and bulk buyers.
 - Better market accessibility for small and marginal farmers.
 
-Social Benefits
-
+**Social Benefits**
 - Improved digital inclusion in rural communities.
 - Greater transparency in agricultural transactions.
 - Increased participation of FPOs in digital commerce.
 - Stronger connections between rural producers and urban consumers.
 
-Environmental Benefits
+**Environmental Benefits**
 
 - Reduced transportation inefficiencies.
 - Lower post-harvest losses through demand forecasting.
 - Better utilization of transportation resources.
 - Support for sustainable agricultural distribution.
 
-5. Research and References
+**5. Research and References**
 
 The proposed solution can be supported by research, datasets, and reference materials from the following sources:
 
@@ -114,7 +112,7 @@ The proposed solution can be supported by research, datasets, and reference mate
 
 
 
-REFERENCE IMAGE AND FLOWCHART:
+**REFERENCE IMAGE AND FLOWCHART:**
 
 <img width="815" height="537" alt="image" src="https://github.com/user-attachments/assets/f4f14b4b-3008-4f30-bf24-ad264743a1cc" />
 
